@@ -31,7 +31,7 @@ key_key.hotbar.7:key.keyboard.7:NONE
 key_key.hotbar.8:key.keyboard.8:NONE
 key_key.hotbar.9:key.keyboard.9:NONE
 key_key.petting.open_pet_inventory:key.keyboard.j:NONE
-key_key.petting.toggle_pet_sit:key.keyboard.o:NONE
+key_key.petting.toggle_pet_sit:key.keyboard.o:ALT
 key_key.petting.ride_pet:key.keyboard.j:ALT
 key_key.adorablehamsterpets.throw_hamster:key.keyboard.g:NONE
 key_key.adorablehamsterpets.ride_hamster:key.keyboard.g:ALT
@@ -39,7 +39,7 @@ key_accessories.key.open_accessories_screen:key.keyboard.h:NONE
 key_key.aether.open_accessories.desc:key.keyboard.i:NONE
 key_key.aether.invisibility_toggle.desc:key.keyboard.v:NONE
 key_key.sophisticatedbackpacks.open_backpack:key.keyboard.b:NONE
-key_key.sophisticatedbackpacks.inventory_interaction:key.keyboard.o:ALT
+key_key.sophisticatedbackpacks.inventory_interaction:key.keyboard.keypad.decimal:NONE
 key_key.sophisticatedbackpacks.toggle_upgrade_1:key.keyboard.keypad.5:NONE
 key_key.sophisticatedbackpacks.toggle_upgrade_2:key.keyboard.keypad.6:NONE
 key_key.sophisticatedbackpacks.toggle_upgrade_3:key.keyboard.keypad.7:NONE

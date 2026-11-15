@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "357cbfb8aed52c6c4028d5b98d43201fc5964e833916ed88f0e3f33a27b00659"
+hash = "b30962fd2be16187930cf669a8c444055c8455647cfc3d969c18f79c95055125"
 
 [[files]]
 file = "mods/accessories.pw.toml"

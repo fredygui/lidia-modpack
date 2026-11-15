@@ -1,12 +1,12 @@
 name = "Lidia Create"
 author = "lidia"
-version = "2026.11.15-1728"
+version = "2026.11.15-1735"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "e46dec431f43e846f4aec2671c236e2ae67b9f56dc7d7876dabbb4c2bb5f176a"
+hash = "f4e4267b86159d99797665352e576c7db167eb66c0348c424db450679b9e2ce9"
 
 [versions]
 minecraft = "1.21.1"
