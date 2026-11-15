@@ -1,0 +1,13 @@
+name = "Lidia Create"
+author = "lidia"
+version = "2026.11.15-1536"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "bb59428ebfccc00b564351bb64b4e911af37d336adea6b9d3fc08be5ade6a61c"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.266"
