@@ -166,11 +166,6 @@ hash = "dcbb37e828a2f915e64a2ef839a742761a553a2e3b923b000ffba95db7503ac3"
 metafile = true
 
 [[files]]
-file = "mods/create-dynamic-lights.pw.toml"
-hash = "56ff7fa56eb6ae7d32cdd1f7ce84022d1ed25b416dd9142572ef0d2360d49ec9"
-metafile = true
-
-[[files]]
 file = "mods/create-encased.pw.toml"
 hash = "f3b613518dc7c420ddf22a0212bbb1df390d8e14c4899d7a11b3a938b67d0914"
 metafile = true
@@ -412,7 +407,7 @@ metafile = true
 
 [[files]]
 file = "mods/ecologics.pw.toml"
-hash = "34a4bda4d8043f6d4b571c23702dcfb9a2d571307b5a3c5a374c05a0d80459a1"
+hash = "63d125990233b5268300d9ef5caf88cbea69886be4a777c412f70cbb8966ba26"
 metafile = true
 
 [[files]]
@@ -691,18 +686,8 @@ hash = "3c24accda8011a6a5e04c49c40e39617bb04ab3a549d8f2e8180d3246fddac39"
 metafile = true
 
 [[files]]
-file = "mods/sodium-dynamic-lights.pw.toml"
-hash = "c1e526d3d17cb3563e596d45c7567ed1fe60c31bdc3457f7a747ef8150bd3c1b"
-metafile = true
-
-[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "7ece7b8e65ac74bc1c705a3e25948ce5772c26ddf148514f29d90920ca1c3866"
-metafile = true
-
-[[files]]
-file = "mods/sodium-options-api.pw.toml"
-hash = "d193173f0f5dfb4a921d44e29e8d5cee656dd3a40872939069715bb482b66fc9"
 metafile = true
 
 [[files]]
