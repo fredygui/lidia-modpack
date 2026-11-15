@@ -122,7 +122,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-cafe.pw.toml"
-hash = "afaabf661bca24c48b6efbdf21cd0583a914ddf86e44e8dc2d59f1a418d6e838"
+hash = "b79238bd1e524932445f1eadbb6d4944a0890189f8ffc9499662db98c14aac63"
 metafile = true
 
 [[files]]
@@ -522,7 +522,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "3c49abb807e720c647591d5608a00a2349e3b4522736cb094b36c0229781d1f1"
+hash = "c0611d8448bc043f372a008a435e14aa238ba8fca52fd1d79634424576ea9e12"
 metafile = true
 
 [[files]]
@@ -597,7 +597,7 @@ metafile = true
 
 [[files]]
 file = "mods/oh-the-trees-youll-grow.pw.toml"
-hash = "e3606794128f16a1d84ed573292529b65aeebad695acdde6aa319d7b9617eb1e"
+hash = "7c189fd86f510fc5697335a4a5f4b4bf8b1b7c301924477035795a5d139b64a0"
 metafile = true
 
 [[files]]
@@ -638,11 +638,6 @@ metafile = true
 [[files]]
 file = "mods/rechiseled.pw.toml"
 hash = "6bee7be8af8f9247fbf84dcd1ec9af2adaa42e55d52ab8a5bfe9b6ff7c94da46"
-metafile = true
-
-[[files]]
-file = "mods/reeses-sodium-options.pw.toml"
-hash = "8690379014fbba53059759936c7deb4d62aabc7a2006da3d45929dc582b119b7"
 metafile = true
 
 [[files]]
