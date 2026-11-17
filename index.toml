@@ -5,6 +5,10 @@ file = "config/defaultoptions/keybindings.txt"
 hash = "b30962fd2be16187930cf669a8c444055c8455647cfc3d969c18f79c95055125"
 
 [[files]]
+file = "defaultoptions.journal.json"
+hash = "0dc87b2ef06fa32077a370c5dfd403c5bf70eb19efb3a28c9fc23b6e060b48a3"
+
+[[files]]
 file = "mods/accessories.pw.toml"
 hash = "2017362c793d95887d38b3353abb7c77f212175e82ed848296575ea0e466b7d7"
 metafile = true
@@ -446,7 +450,7 @@ metafile = true
 
 [[files]]
 file = "mods/friends-and-foes-forge.pw.toml"
-hash = "dd747d8f87a5cbff501a4c59f5ac06faec2cc03c416cbff5dc3b920157552dc0"
+hash = "222486a7dc5c6f8443d1520f36d6da41e74bfa191263c5188c4db7a999043bc8"
 metafile = true
 
 [[files]]
@@ -521,7 +525,7 @@ metafile = true
 
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
-hash = "712a69b3569a8055979de6eea262068535fe182dffb3833e53e5833e9cbf9766"
+hash = "52be2f8af37fa9a10f817b3a676e56c9cdf33a3632048d8e922312878244b794"
 metafile = true
 
 [[files]]
@@ -726,7 +730,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "9586073d1516edeb883ac756ba0379976b890b0faffffec7e45faace40b1ccac"
+hash = "a9c525571077c7473c6f09bfe795d045d98b60092e779f259067a206a9190647"
 metafile = true
 
 [[files]]
@@ -736,7 +740,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "0f41c917f1091923bb27756879c51da6436fa660d66857be4523cc78ef5c0833"
+hash = "73534d02e03ffb423c3dd6abcae6cd85533306277774600a18a8691b8c5624a1"
 metafile = true
 
 [[files]]
