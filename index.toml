@@ -180,7 +180,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-encased.pw.toml"
-hash = "f3b613518dc7c420ddf22a0212bbb1df390d8e14c4899d7a11b3a938b67d0914"
+hash = "219c8225dfb1dd6096c1324993545041be6f6afabecf069f5074b75e0394c33b"
 metafile = true
 
 [[files]]
@@ -225,7 +225,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-integrated-farming.pw.toml"
-hash = "205ac4987dcaf6aa6a099c9dbcb97f9aea85b2f9b2f5953fc88c83d92afd90b5"
+hash = "c9506b73dff84761324a0248757ebe255164a8c92f759360a4191e53e6228466"
 metafile = true
 
 [[files]]
@@ -480,7 +480,7 @@ metafile = true
 
 [[files]]
 file = "mods/hypertube.pw.toml"
-hash = "672fe2518a1795814efc943c3e3cf8dc1b993bc7d838cc62950acfaba348c2c7"
+hash = "f99e6cbd5e3f1838515edb52d3bce03c015fcabf4e160328a046816bebadba8e"
 metafile = true
 
 [[files]]
@@ -634,6 +634,11 @@ hash = "93284ca7f2f23f0bb76d42b797cabf2aea1914ee9825bec82bf6ffe4c60dda0d"
 metafile = true
 
 [[files]]
+file = "mods/polymorph.pw.toml"
+hash = "152769b5dfbb92a836634e315898b23b6a555c60b6f05ddf38c00085f2b784f6"
+metafile = true
+
+[[files]]
 file = "mods/power-grid.pw.toml"
 hash = "22cf5579fbc67af2ac84358af3c390c6235fabd6cd6cc3828021349b588f4bdb"
 metafile = true
@@ -725,12 +730,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "882a37f53c24ebad93b2fcd5feb972154f9c6df42d94e4b9282edfdafe595f41"
+hash = "44fbfa6f8f0cda4f628d2f1488b758f84b27a05bbfde836cdfe6b176eb4e6b81"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "a9c525571077c7473c6f09bfe795d045d98b60092e779f259067a206a9190647"
+hash = "538402dccb562c05a3e126e2db0ee2d0d97e5227776c51c33834aeeb01c192a8"
 metafile = true
 
 [[files]]
@@ -740,7 +745,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "73534d02e03ffb423c3dd6abcae6cd85533306277774600a18a8691b8c5624a1"
+hash = "589ce9acb7d0fd2cb2323d871daba07615f5b7b5ed6a06cfa813740a4012c2fa"
 metafile = true
 
 [[files]]
@@ -760,12 +765,12 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "33eab1ec1f2b6a02756c74817832b56960b689f112690ecf37f8ce7f8077589f"
+hash = "2c858567ef7b8f1f9cb8cb33917571d8027bc83b42e83ae38623a8f3af718e5f"
 metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "6b7fe7dddd1ae7b41e2de7ef622981a2a1daad26c9a164e084c8aeffb47e8c30"
+hash = "68f3056f4389704e386dd4c592a5cd9251fede39d9c022820442b9559b98e51b"
 metafile = true
 
 [[files]]
