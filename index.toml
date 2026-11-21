@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "b30962fd2be16187930cf669a8c444055c8455647cfc3d969c18f79c95055125"
+hash = "9f1ef15ff7ca97b0bbf466141242285287195b5b6c0fee4e2646945cb7b4877d"
 
 [[files]]
 file = "defaultoptions.journal.json"
-hash = "0dc87b2ef06fa32077a370c5dfd403c5bf70eb19efb3a28c9fc23b6e060b48a3"
+hash = "f73da6c60d398bd8a40ce14961acc61ba0ec64e13565d313cb6e371c3319c61e"
 
 [[files]]
 file = "mods/accessories.pw.toml"
@@ -79,6 +79,11 @@ hash = "0752ec9f3ef57c06a49813e1d1d1d442a124b3a7586bd232003055dc343a317f"
 metafile = true
 
 [[files]]
+file = "mods/chunky.pw.toml"
+hash = "1d5cc2b6dcfd1fc3adba4566b1c29b57ff1175316678c1f22e63cbc3e28a5ba0"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
 metafile = true
@@ -105,7 +110,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-aeronautics.pw.toml"
-hash = "3b8895369640b2a52d3e05f7186185ba6798e44d513f11c5427a0fe9c16769e9"
+hash = "19005d189b90d95b5b981784480f1a39bf24022535f71b9afd7175e17216a038"
 metafile = true
 
 [[files]]
@@ -454,6 +459,16 @@ hash = "222486a7dc5c6f8443d1520f36d6da41e74bfa191263c5188c4db7a999043bc8"
 metafile = true
 
 [[files]]
+file = "mods/ftb-library.pw.toml"
+hash = "da2f750b39eb4227d1f59ee0fa896fd36c409f11f014de43dc3f03fafb408a75"
+metafile = true
+
+[[files]]
+file = "mods/ftb-ultimine.pw.toml"
+hash = "96c4a77fcdd621b906c522c0b5b9471bb8eb046098e50948ce43fd586c7906a8"
+metafile = true
+
+[[files]]
 file = "mods/fusion-connected-textures.pw.toml"
 hash = "108739f2fdaa6a885a3217ae692b2521ab10b8e71fa1222c67274ea0562649a5"
 metafile = true
@@ -531,6 +546,11 @@ metafile = true
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "ebf0dae777cc19c354a662dc8144009dff7269b2d05624b4591fcb7de56fc14e"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "51e129832b04acd57da470fc41725bad5e101b6a6b1d4901fd8ea7a92b14e13d"
 metafile = true
 
 [[files]]
@@ -749,6 +769,11 @@ hash = "589ce9acb7d0fd2cb2323d871daba07615f5b7b5ed6a06cfa813740a4012c2fa"
 metafile = true
 
 [[files]]
+file = "mods/spark.pw.toml"
+hash = "593fa7b30ab016aa45be07bd6bef3a9f160ed0f24689850d60bf84995d69b843"
+metafile = true
+
+[[files]]
 file = "mods/squat-grow.pw.toml"
 hash = "33f7395d4e7b429abf6d57899becf024149621a4e494c8b7ae5aa46aea18165d"
 metafile = true
@@ -770,7 +795,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "68f3056f4389704e386dd4c592a5cd9251fede39d9c022820442b9559b98e51b"
+hash = "e9f37eb4b771b2eaf99452bfd94c1b202f2a2bc057d41bde404eea02ac76a8c4"
 metafile = true
 
 [[files]]

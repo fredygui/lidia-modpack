@@ -90,3 +90,6 @@ key_key.ntgl.debug_rz_add:key.keyboard.unknown:NONE
 key_key.ntgl.debug_rx_sub:key.keyboard.unknown:NONE
 key_key.ntgl.debug_ry_sub:key.keyboard.unknown:NONE
 key_key.ntgl.debug_rz_sub:key.keyboard.unknown:NONE
+key_key.ftbultimine:key.keyboard.world.2:NONE
+key_ftbultimine.change_shape.next:key.keyboard.right:NONE
+key_ftbultimine.change_shape.prev:key.keyboard.left:NONE
